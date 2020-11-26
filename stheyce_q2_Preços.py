@@ -1,0 +1,5 @@
+Preços=('Mouse',20.50, 'Teclado',100.00,'Monitor',679.00)
+print('Lista de Preços')
+print(Preços[0],'.......... R$',Preços[1])
+print(Preços[2],'.......... R$',Preços[3])
+print(Preços[4],'.......... R$',Preços[5])
